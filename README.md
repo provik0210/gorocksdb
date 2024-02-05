@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/tecbot/gorocksdb.svg)](https://travis-ci.org/tecbot/gorocksdb) [![GoDoc](https://godoc.org/github.com/tecbot/gorocksdb?status.svg)](http://godoc.org/github.com/tecbot/gorocksdb)
 
 ## Install
-123123123
+1441
 You'll need to build [RocksDB](https://github.com/facebook/rocksdb) v5.16+ on your machine.
 
 After that, you can install gorocksdb using the following command:
